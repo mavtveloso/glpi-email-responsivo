@@ -1,5 +1,5 @@
 # glpi-email-responsivo
-### Um código html para melhorar a aparência do e-mail responsivo do sistema de chamado <a href="https://glpi-project.org/">Glpi</a>.
+### Um código html para melhorar a aparência do e-mail responsivo do sistema de chamado <a href="https://glpi-project.org/">Glpi</a> ver. 9.5.2.
 
 ## Sobre:
 Editei o código _"Modelo de notificações"_ original do Glpi para facilitar a leitura/interação do e-mail pelo usuario. No caso da empresa onde utilizo o Glpi somente os técnicos possuem login e senha para acessar o sistema de chamado. Toda a interação como: abertura de chamado, acompanhamentos e solicitações é feita pelo usuário _(colaboradores de outros departamentos diferente do TI)_ através do e-mail. Então foi necessário simplificar e deixar a aparência das respostas mais agradável, para facilitar a leitura e interação do chamado.
